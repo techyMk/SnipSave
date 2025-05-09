@@ -77,7 +77,8 @@ h2 {
 }
 
 .wrapper .save-btn {
-    color: #fff;
+    color: #000;
+    font-weight: 500;
     margin-top: 20px;
     padding: 16px 0;
     cursor: pointer;
@@ -93,6 +94,7 @@ h2 {
 }
 
 .wrapper .save-btn:hover { 
+    color: #fff;
     transform: translateY(-0.5px);
     background: #1261a5;
 }
